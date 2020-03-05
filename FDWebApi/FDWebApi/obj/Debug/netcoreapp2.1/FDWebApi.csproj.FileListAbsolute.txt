@@ -1,0 +1,14 @@
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\bin\Debug\netcoreapp2.1\FDWebApi.deps.json
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\bin\Debug\netcoreapp2.1\FDWebApi.runtimeconfig.json
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\bin\Debug\netcoreapp2.1\FDWebApi.runtimeconfig.dev.json
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\bin\Debug\netcoreapp2.1\FDWebApi.dll
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\obj\Debug\netcoreapp2.1\FDWebApi.csprojAssemblyReference.cache
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\obj\Debug\netcoreapp2.1\FDWebApi.csproj.CoreCompileInputs.cache
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\obj\Debug\netcoreapp2.1\FDWebApi.RazorAssemblyInfo.cache
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\obj\Debug\netcoreapp2.1\FDWebApi.RazorAssemblyInfo.cs
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\obj\Debug\netcoreapp2.1\FDWebApi.AssemblyInfoInputs.cache
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\obj\Debug\netcoreapp2.1\FDWebApi.AssemblyInfo.cs
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\obj\Debug\netcoreapp2.1\FDWebApi.RazorTargetAssemblyInfo.cache
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\bin\Debug\netcoreapp2.1\FDWebApi.pdb
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\obj\Debug\netcoreapp2.1\FDWebApi.dll
+D:\Eric\OF\2020-backend-exercise-master\FDWebApi\FDWebApi\obj\Debug\netcoreapp2.1\FDWebApi.pdb
